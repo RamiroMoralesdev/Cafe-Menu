@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    
+}
+nav{
+  background-color: #7b4121;
+  padding-left: 600px;
+  border: 3px solid black;
+  height: 200px;
+}
+nav img{
+    width: 100px;
+    height: 100px;
+}
+nav p{
+    font-size: 30px;
+    color: #ffffff;
+    margin-left: -40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav a{
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    position: relative;
+    left: 250px;
+    bottom: 115px;
+    cursor: pointer;
+}
+div{
+    background-color: grey;
+    width: 700px;
+    height: 400px;
+    border: 2px solid  white;
+    border-radius: 20px;
+    box-shadow: black 20px 20px 20px 20px ;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+}
+button{
+    margin-top: 80px;
+    margin-left: 160px;
+    height: 100px;
+    width: 400px;
+    font-size: 50px;
+    background-color: #7b4121;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+}
